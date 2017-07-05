@@ -10,3 +10,5 @@ out
 /project
 /.idea
 gen
+.idea_modules/
+projectFilesBackup/
