@@ -7,7 +7,6 @@
 *.iml
 out
 /target
-/project
 /.idea
 gen
 .idea_modules/
